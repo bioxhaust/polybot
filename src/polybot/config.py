@@ -25,6 +25,9 @@ class Settings:
     min_edge: float
     taker_fee_rate: float
 
+    snapshot_seconds: float = 300.0  # books, fair probabilities and outcome checks
+    min_trade_tte_minutes: float = 60.0  # no directional entries closer to expiry than this
+
     @property
     def risk_unit_usd(self) -> float:
         return self.bankroll_usd * self.risk_unit_pct
@@ -49,4 +52,6 @@ def load_settings(env_file: str | Path | None = ".env") -> Settings:
         max_share_of_volume=float(get("MAX_SHARE_OF_VOLUME", "0.01")),
         min_edge=float(get("MIN_EDGE", "0.03")),
         taker_fee_rate=float(get("TAKER_FEE_RATE", "0.0")),
+        snapshot_seconds=float(get("SNAPSHOT_SECONDS", "300")),
+        min_trade_tte_minutes=float(get("MIN_TRADE_TTE_MINUTES", "60")),
     )

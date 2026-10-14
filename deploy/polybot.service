@@ -1,0 +1,20 @@
+# Paper trading only: no keys, no wallet. Install:
+#   sudo cp deploy/polybot.service /etc/systemd/system/
+#   sudo systemctl daemon-reload && sudo systemctl enable --now polybot
+# Logs: journalctl -u polybot -f
+[Unit]
+Description=Polybot paper trading (Polymarket vs Deribit)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=polybot
+WorkingDirectory=/opt/polybot
+ExecStart=/opt/polybot/.venv/bin/python -m polybot
+Restart=always
+RestartSec=30
+Environment=PYTHONUNBUFFERED=1
+
+[Install]
+WantedBy=multi-user.target

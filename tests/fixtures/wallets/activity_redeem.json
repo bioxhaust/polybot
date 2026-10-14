@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "proxy_wallet": "0x0f1b8f81fdcb47b6c3292b8dbf6c2c16b3c4d367",
+      "timestamp": 1754079258,
+      "condition_id": "0x74e986174adb8a616b0d3bee7fcd1a877f4a3bcf4d11d761a35af2008c3c507e",
+      "type": "REDEEM",
+      "size": 10.0,
+      "usdc_size": 10.0,
+      "transaction_hash": "0xd820f2f190558298c3119aaca26a8c5a27f4a9d590ead8e9599158b9ed88c70f",
+      "price": 0.0,
+      "token_id": "",
+      "side": "",
+      "outcome_index": 1,
+      "title": "Will the price of Solana be between $180 and $190 on August 1?",
+      "slug": "will-the-price-of-solana-be-between-180-and-190-on-august-1",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/SOL+fullsize.png",
+      "event_slug": "solana-price-on-august-1",
+      "outcome": "No",
+      "name": "manwithahat",
+      "pseudonym": "Detailed-Funding",
+      "bio": "",
+      "profile_image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3121696-f4615ced-f3d5-4c6e-b57b-74f12f97e4fa.webp",
+      "profile_image_optimized": ""
+    }
+  ],
+  "pagination": {
+    "limit": 1,
+    "offset": 0,
+    "has_more": true,
+    "next_cursor": "eyJkYXRhIjp7InR5cGUiOiJhY3Rpdml0eSIsInBhcmFtcyI6eyJsIjoxLCJ0cyI6MTc1NDA3OTI1OCwic3EiOiI3NDY4MDQzNTAwMDY5MDM5NzAiLCJkIjoxfX0sInNpZyI6ImVkNDA1OTAyNmYwYjkxNWNkOTMxN2M4ZDk4ZjIwMmVjIn0"
+  }
+}

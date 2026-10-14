@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "proxy_wallet": "0x0f1b8f81fdcb47b6c3292b8dbf6c2c16b3c4d367",
+      "timestamp": 1754054286,
+      "condition_id": "0xf0ee86ffee78ab8fde56d85e8f8526c6cb37356f0b7cf78b3be29581726fbdd4",
+      "type": "TRADE",
+      "size": 4375.0,
+      "usdc_size": 4333.12375,
+      "transaction_hash": "0x79a090dfd8605688805781847fbf638ed423a03036ed5e2448d779b3215c9269",
+      "price": 0.9904282857,
+      "token_id": "62055805186255771511254451695722342761257851803793526942758322777252055708477",
+      "side": "SELL",
+      "outcome_index": 1,
+      "title": "Will the price of Bitcoin be less than $112K on August 1?",
+      "slug": "will-the-price-of-bitcoin-be-less-than-112k-on-august-1",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/BTC+fullsize.png",
+      "event_slug": "bitcoin-price-on-august-1",
+      "outcome": "No",
+      "name": "manwithahat",
+      "pseudonym": "Detailed-Funding",
+      "bio": "",
+      "profile_image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3121696-f4615ced-f3d5-4c6e-b57b-74f12f97e4fa.webp",
+      "profile_image_optimized": ""
+    }
+  ],
+  "pagination": {
+    "limit": 1,
+    "offset": 0,
+    "has_more": true,
+    "next_cursor": "eyJkYXRhIjp7InR5cGUiOiJhY3Rpdml0eSIsInBhcmFtcyI6eyJsIjoxLCJ0cyI6MTc1NDA1NDI4Niwic3EiOiI3NDY2OTE2ODAwMTQ4MDk1MzEiLCJkIjoxfX0sInNpZyI6Ijc4YTdkYzU3ZTBkNjZjMWVmZTg0ZTBhZmQ4NjE3ODQ0In0"
+  }
+}

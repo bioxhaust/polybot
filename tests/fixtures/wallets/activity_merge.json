@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "proxy_wallet": "0x0f1b8f81fdcb47b6c3292b8dbf6c2c16b3c4d367",
+      "timestamp": 1753922841,
+      "condition_id": "0x1f7fe6adaafdf782850f5a662255ffddb2074047c30922a5dbb29c067c766e4a",
+      "type": "MERGE",
+      "size": 3992.617,
+      "usdc_size": 3992.617,
+      "transaction_hash": "0xdad90d5a776df048606a98a8c5b3584db0af7235a0caf30c46435b5a9b1924bc",
+      "price": 0.0,
+      "token_id": "",
+      "side": "",
+      "outcome_index": 999,
+      "title": "Will Solana dip to $100 in July?",
+      "slug": "will-solana-dip-to-100-in-july-488-444-624",
+      "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/SOL+fullsize.png",
+      "event_slug": "what-price-will-solana-hit-in-july-717",
+      "outcome": "",
+      "name": "manwithahat",
+      "pseudonym": "Detailed-Funding",
+      "bio": "",
+      "profile_image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/profile-image-3121696-f4615ced-f3d5-4c6e-b57b-74f12f97e4fa.webp",
+      "profile_image_optimized": ""
+    }
+  ],
+  "pagination": {
+    "limit": 1,
+    "offset": 0,
+    "has_more": true,
+    "next_cursor": "eyJkYXRhIjp7InR5cGUiOiJhY3Rpdml0eSIsInBhcmFtcyI6eyJsIjoxLCJ0cyI6MTc1MzkyMjg0MSwic3EiOiI3NDYxMDU1MDAwMDc1MDUwMzAiLCJkIjoxfX0sInNpZyI6IjdlNTk0OTcwMDJjMTFjYzA1NjRlNmRlODUzMzFmZDllIn0"
+  }
+}
